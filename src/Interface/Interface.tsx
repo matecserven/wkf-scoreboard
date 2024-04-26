@@ -7,7 +7,7 @@ export const Interface = () => {
   return (
     <div className="container is-max-desktop mt-6">
       <button className="button">
-        <a href="/display" target="_blank">
+        <a href="/wkf-scoreboard/display" target="_blank">
           Open Display
         </a>
       </button>
