@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/wkf-scoreboard/static/css/main.f855e6bc.css",
-    "main.js": "/wkf-scoreboard/static/js/main.87b1bd18.js",
-    "static/js/453.855fb028.chunk.js": "/wkf-scoreboard/static/js/453.855fb028.chunk.js",
-    "static/media/logo.svg": "/wkf-scoreboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/wkf-scoreboard/static/css/main.f204b35e.css",
+    "main.js": "/wkf-scoreboard/static/js/main.ac986922.js",
     "index.html": "/wkf-scoreboard/index.html",
-    "main.f855e6bc.css.map": "/wkf-scoreboard/static/css/main.f855e6bc.css.map",
-    "main.87b1bd18.js.map": "/wkf-scoreboard/static/js/main.87b1bd18.js.map",
-    "453.855fb028.chunk.js.map": "/wkf-scoreboard/static/js/453.855fb028.chunk.js.map"
+    "main.f204b35e.css.map": "/wkf-scoreboard/static/css/main.f204b35e.css.map",
+    "main.ac986922.js.map": "/wkf-scoreboard/static/js/main.ac986922.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.87b1bd18.js"
+    "static/css/main.f204b35e.css",
+    "static/js/main.ac986922.js"
   ]
 }
