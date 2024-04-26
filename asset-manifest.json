@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wkf-scoreboard/static/css/main.f204b35e.css",
-    "main.js": "/wkf-scoreboard/static/js/main.29261825.js",
+    "main.js": "/wkf-scoreboard/static/js/main.52e6b0cc.js",
     "index.html": "/wkf-scoreboard/index.html",
     "main.f204b35e.css.map": "/wkf-scoreboard/static/css/main.f204b35e.css.map",
-    "main.29261825.js.map": "/wkf-scoreboard/static/js/main.29261825.js.map"
+    "main.52e6b0cc.js.map": "/wkf-scoreboard/static/js/main.52e6b0cc.js.map"
   },
   "entrypoints": [
     "static/css/main.f204b35e.css",
-    "static/js/main.29261825.js"
+    "static/js/main.52e6b0cc.js"
   ]
 }
