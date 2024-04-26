@@ -1,12 +1,8 @@
-import styles from "../assets/styles/Interface.module.css";
 import { useCrossTabState } from "../storageHook";
 
 export const Interface = () => {
-  const { state: redData, setState: setRedData } = useCrossTabState("red", "");
-  const { state: blueData, setState: setBlueData } = useCrossTabState(
-    "blue",
-    ""
-  );
+  const { setState: setRedData } = useCrossTabState("red", "");
+  const { setState: setBlueData } = useCrossTabState("blue", "");
 
   return (
     <div className="container is-max-desktop mt-6">
